@@ -1,0 +1,41 @@
+{{indexmenu_n>3}}
+
+## 操作指南
+
+### 操作入口
+
+产品与服务➡混合云➡机柜托管 ![1.png](/compute/uhybrid/ucabinet/1.png)
+
+### 机柜预留申请
+
+点击\[机柜预留\]按钮。 ![2.png](/compute/uhybrid/ucabinet/2.png)
+确认提示页面进入机柜预留申请界面。
+![3.png](/images/ucabinet/3.png) 选择模块和对应机柜编号，点击\[确定\]完成预留。
+![4.png](/images/ucabinet/4.png) 预留成功后，也可取消预留。
+![5.png](/images/ucabinet/5.png)
+![6.png](/images/ucabinet/6.png)
+
+### 机柜开电申请
+
+点击\[机柜开电\]按钮。 ![7.png](/compute/uhybrid/ucabinet/7.png)
+确认提示，点击\[确定\]，进入机柜开电页面。
+![8.png](/images/ucabinet/8.png) 申请页面中可以选择申请范围：已预留/未预留。
+\[已预留\]申请界面如下。 ![9.png](/compute/uhybrid/ucabinet/9.png)
+\[未预留\]申请界面如下。 ![10.png](/compute/uhybrid/ucabinet/10.png)
+注意：在机房未封网情况下，机柜开电SLA为3～5个工作日。
+选择好对应的机柜编号，点击\[确定\]按钮，进入支付页面，支付定金。
+![11.png](/images/ucabinet/11.png) 具体扣费时间以时间开电时间为准。
+
+### 机柜关电申请
+
+已开电的机柜可以申请关电。关电退费时间以实际关电成功的时间为准。
+![12.png](/images/ucabinet/12.png)
+
+### 机柜详情查看
+
+通过点击机柜列表右侧的\[详情\]按钮可以进入机柜详情页面。
+![15.png](/images/ucabinet/15.png)
+进入详情页面，可以切换至\[托管设备列表\]查看机柜目前设备摆放情况等，也可以切换至\[机柜属性概览\]查看机柜本身的详情属性。
+![16.png](/images/ucabinet/16.png)
+在\[机柜属性概览\]里，可以查看机柜的基本信息、配置信息、付费信息和状态日志等。
+![17.png](/images/ucabinet/17.png)
