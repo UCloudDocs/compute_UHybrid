@@ -4,13 +4,13 @@
 
 ### 操作入口
 
-产品与服务➡混合云➡金翼物理机 ![](/compute/uhybrid/userver/jinyi-01.png)
+产品与服务➡混合云➡金翼物理机 
 
 ### 配置选择、价格预估和提交
 
-确认提示页面➡选择配置、获取价格➡提交申请 ![](/compute/uhybrid/userver/jinyi-02.png)
+确认提示页面➡选择配置、获取价格➡提交申请 
 
-![](/images/userver/jinyi-03.png)
+![金翼-配置填写](/images/userver/jinyi-03.png)
 
 ### 阅读申请须知并确认，完成申请
 
@@ -22,17 +22,17 @@
 
 3\. 物理机成功申请后，将进入审核、待支付、配货中、已到货等状态。
 
-4\. 支付成功到物理机到货可能需要2～3周，请您耐心等待。
+4\. 支付成功到物理机到货可能需要4～7周，请您耐心等待。
 
 以下为样例截图：
 
-![](/images/userver/jinyi-04-1.png)
+![金翼-申请](D:\1~svn所有资料\7个人文档\韩婧\1~混合云\官网文档连接\uhybrid\images\userver\jinyi-12.png)
 
 点击申请须知的［确定］完成申请。
 
 列表中展示出申请的物理机，状态为“确认中”。
 
-![](/images/userver/jinyi-05.png)
+![金翼-状态](/images/userver/jinyi-05.png)
 
 ### 用户等待审核并通过，支付定金
 
@@ -40,15 +40,15 @@
 
 定金为服务器首月支付费用，如买10台服务器，需支付10台服务器首月费用。若用户无足够金额，请寻求客户经理，支持使用信用额度完成支付。
 
-![](/images/userver/jinyi-06-1.png)
+![金翼-支付](/images/userver/jinyi-06-1.png)
 定金支付后，服务器状态为“配货中”，当前状态下，用户无法撤销申请。
-![](/images/userver/jinyi-07.png)
+![金翼-配货中](/images/userver/jinyi-07.png)
 
 ### 物理机到货，完成扣费
 
 服务器到货后，物理机状态为“已到货”，费用将于3个自然日后自动开始扣除。
-![](/images/userver/jinyi-08.png) 点击详情，可以查看相关物理机详情，包含配置信息和状态日志。
-![](/images/userver/jinyi-09.png)
+![金翼-到货](/images/userver/jinyi-08.png) 点击详情，可以查看相关物理机详情，包含配置信息和状态日志。
+![金翼-详细配置](/images/userver/jinyi-09.png)
 
 ### 物理机配置升级
 
@@ -57,5 +57,5 @@
 支持用户多次升级。
 
 注意，升级配置为一次性扣费，即一次性完成此次新增配件的扣费，后续不会产生月付订单。
-![](/images/userver/jinyi-10.png)
-![](/images/userver/jinyi-11-1.png)
+![金翼-发起升级](/images/userver/jinyi-10.png)
+![金翼-升级配件](/images/userver/jinyi-11-1.png)
