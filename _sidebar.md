@@ -25,7 +25,7 @@
     * 专线接入 UConnect
         * [产品介绍](compute/uhybrid/uconnect/info)
         * [计费规则](compute/uhybrid/uconnect/price)
-    * 混合云运维服务 UService
+    * [混合云运维服务 UService](https://docs.ucloud.cn/compute/uhybrid/uservice)
         * [产品介绍](compute/uhybrid/uservice/info)
         * [计费规则](compute/uhybrid/uservice/price)
         * [操作指南](compute/uhybrid/uservice/operate)
