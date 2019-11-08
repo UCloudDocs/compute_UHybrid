@@ -31,4 +31,4 @@
         * [操作指南](compute/uhybrid/uservice/operate)
         * [FAQ](compute/uhybrid/uservice/faq)
         * [混合云服务协议](compute/uhybrid/uservice/agreement)
-    * [可租用交换机列表](compute/uhybrid/switch_list)        
+    * [可租用交换机列表](compute/uhybrid/switch_list01)        
