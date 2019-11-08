@@ -1,10 +1,11 @@
 * 混合云 UHybrid
     * [概览](compute/uhybrid/overview)
-    * 混合云
-        * [优势](compute/uhybrid/qimingintro/goodness)
+    * [混合云](computer/uhybrid/index)
+      
+      * [优势](compute/uhybrid/qimingintro/goodness)
         * [使用场景](compute/uhybrid/qimingintro/case)
         * [适用行业](compute/uhybrid/qimingintro/industry)
-    * 机柜托管 UCabinet
+    * [机柜托管 UCabinet](computer/uhybrid/ucabinet)
         * [产品介绍](compute/uhybrid/ucabinet/info)
         * [计费规则](compute/uhybrid/ucabinet/price)
         * [操作指南](compute/uhybrid/ucabinet/operate)
