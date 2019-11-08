@@ -9,7 +9,7 @@
         * [计费规则](compute/uhybrid/ucabinet/price)
         * [操作指南](compute/uhybrid/ucabinet/operate)
         * [FAQ](compute/uhybrid/ucabinet/faq)
-    * [金翼物理机 UServer](compute/uhybrid/uservice/userver.md)
+    * [金翼物理机 UServer](compute/uhybrid/userver.md)
         * [产品介绍](compute/uhybrid/userver/info)
         * [计费规则](compute/uhybrid/userver/price)
         * [操作指南](compute/uhybrid/userver/operate)
