@@ -10,7 +10,7 @@
 
 \* **支持机柜自助预留**
 
-用户可以选择机柜进行付费预留，详情见[计费规则](https://docs.ucloud.cn/compute/uhybrid/ucabinet/price)
+用户可以选择机柜进行付费预留，详情见[计费规则](https://docs.ucloud.cn/uhybrid/ucabinet/price)
 
 \* **支持机柜自助开电/关电**
 
@@ -28,7 +28,7 @@
 
 \* **提供基础运维服务和增值服务**
 
-提供多达20余种运维服务，详情可参考配套产品-[运维服务](https://docs.ucloud.cn/compute/uhybrid/uservice/info)。
+提供多达20余种运维服务，详情可参考配套产品-[运维服务](https://docs.ucloud.cn/uhybrid/uservice/info)。
 
 ### 产品优势
 
